@@ -3,6 +3,7 @@ def main():
     print('hi')
     print('My first git program')
     print('hi')
+    print('hello again')
 
 
 if __name__ == '__main__':
